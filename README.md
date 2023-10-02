@@ -1,1 +1,6 @@
-# Stadium_mode
+# Stadium mode
+
+Imagine sitting in a stadium and every mobile device act as one pixel to display flag of your favorite team or creating a wave of colors from left to right in concert venues or sports stadiums. This groundbreaking project is a first of its kind, pushing the boundaries of technology and fan engagement to deliver a truly unique and unforgettable experience. Stadium Mode is not just a software project it's a revolution in live event immersion, setting a new standard for what is possible in the world of entertainment technology.
+
+At the core of this innovation is our  BLE (Bluetooth Low Energy) localization algorithm technology. This algorithm ensures the precise location of every device, eliminating the accuracy errors associated with traditional GPS systems. Traditional GPS can introduce inaccuracies, especially in dense, crowded environments like stadiums. Our BLE-based localization guarantees that every device's location is correct, allowing for flawless coordination and synchronizes thousands of mobile devices in real-time, ensuring that the wave of colors moves with precision and accuracy from one end of the stadium to the other, giving a truly mesmerizing experience for fans.
+
